@@ -5,4 +5,4 @@
 
 _to tez jest element markdown_
 
-## Headind 2
+## Heading 2
