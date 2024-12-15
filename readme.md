@@ -11,6 +11,19 @@ _to tez jest element markdown_
 >nawet dodając znak nowego wiersza w poprzedniej
 >>nie spowoduje rozpoczęcia nowego paragrafu.
 
+1. Dziś muszę kupić:
+   * sztabkę masła ;-)
+   * ogórka
+   * sok pomarańczowy
+   * bułkę
+2. A potem jednak zagnieździmy:
+   * warzywa:
+   * buraka
+   * i cebulę:
+     * czerwoną,
+     * szalotkę.
+
+
  ```python
   import math
   print('Hello python')
